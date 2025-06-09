@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Abhit Pandey
 - **Email**: pandey.06abhit@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhit-pandey-9a481522b/))
+- **LinkedIn**: [Abhit Pandey([https://www.linkedin.com/in/abhit-pandey-9a481522b/](https://www.linkedin.com/in/abhit-pandey-9a481522b/))
 
 ---
 
