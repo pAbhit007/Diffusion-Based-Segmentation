@@ -1,4 +1,4 @@
-# Diffusion-Based-Segmentation# Brain MRI Segmentation with Deep Learning
+# Diffusion-Based-Models : Brain MRI Segmentation with Transformer-based Deep Models
 
 ## Overview
 
