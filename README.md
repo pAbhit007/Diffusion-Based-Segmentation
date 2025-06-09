@@ -174,6 +174,9 @@ The training process demonstrates:
 
 ## 🏆 Results Summary
 
+![sample_8](https://github.com/user-attachments/assets/0a3599c8-3d8a-4fae-bb10-5da17b719be6)
+
+
 This implementation represents a significant advancement in medical image segmentation, combining traditional UNet architecture with modern attention mechanisms and transformer encoders. The model achieves state-of-the-art performance while maintaining computational efficiency and robust generalization capabilities.
 
 ## 📝 Citation
